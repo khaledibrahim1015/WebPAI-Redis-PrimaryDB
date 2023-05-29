@@ -1,16 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "3668zqEXmsrUkglNIqe6zQ8Ha2YxSZWcZoNwpYFqUCIvsigYYxIWlqOdne1yku7OVcjDSjj5SxzynbqaZN5f/Q==",
+  "dgSpecHash": "kMLqGLXHJxwbv4so8hCOcK5tOWxKUcPR8R7l2mfkzCgSE6lR5maUNRy8kL1w/ekYebjRlTkF1CQ+ls+56YiUvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\KhaledIbra\\Desktop\\webAPI-RedisPrimaryDB\\WebPAI-Redis-PrimaryDB\\RedisAPI\\RedisAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\7.0.5\\microsoft.extensions.caching.stackexchangeredis.7.0.5.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\KhaledIbra\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\stackexchange.redis\\2.6.111\\stackexchange.redis.2.6.111.nupkg.sha512",
     "C:\\Users\\KhaledIbra\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\KhaledIbra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\KhaledIbra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\KhaledIbra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\KhaledIbra\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

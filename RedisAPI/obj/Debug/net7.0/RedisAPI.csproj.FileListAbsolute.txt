@@ -31,3 +31,7 @@ C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAP
 C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\obj\Debug\net7.0\RedisAPI.pdb
 C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\obj\Debug\net7.0\RedisAPI.genruntimeconfig.cache
 C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\obj\Debug\net7.0\ref\RedisAPI.dll
+C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\KhaledIbra\Desktop\webAPI-RedisPrimaryDB\WebPAI-Redis-PrimaryDB\RedisAPI\bin\Debug\net7.0\StackExchange.Redis.dll
